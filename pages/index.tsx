@@ -10,7 +10,7 @@ import Contact from '../components/Contact'
 
 export default function Home() {
   return (
-    <div className="bg-[rgb(36,36,36)] h-[100%] text-white snap-y snap-mandatory z-0 overflow-y-scroll overflow-x-hidden">
+    <div className="bg-[rgb(36,36,36)] h-[100%] text-white snap-y snap-mandatory z-0 overflow-x-hidden">
       <Head>
         <title>Diyorbekk Nurllayev - Portfolio</title>
       </Head>
