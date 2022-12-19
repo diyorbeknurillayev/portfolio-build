@@ -26,7 +26,7 @@ export default function About({ }: Props) {
                 src="https://cdn.sanity.io/images/ltuexkre/production/ac8058b25cc880765f6549dd27223349f37a7c2f-1173x1458.jpg"
             />
             <div className='space-y-10 px-0 md:px-10'>
-                <h4 className='text-4xl font-semibold'>Here is a <span className='underline decoration-blue-500'>little</span> background </h4>
+                <h4 className='text-4xl font-semibold'>Here is a <span className='underline decoration-[#f7ab0a]'>little</span> background </h4>
                 <p className='text-base'>
                     I'm Sonny. 💯 You might also know me as PAPA React! I'll be your coach & mentor 
                     inside the PAPAFAM, here's a little bit about me... I've been coding for over 10 years 
