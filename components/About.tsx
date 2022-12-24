@@ -28,18 +28,7 @@ export default function About({ }: Props) {
             <div className='space-y-10 px-0 md:px-10'>
                 <h4 className='text-4xl font-semibold'>Here is a <span className='underline decoration-[#f7ab0a]'>little</span> background </h4>
                 <p className='text-base'>
-                    I'm Sonny. 💯 You might also know me as PAPA React! I'll be your coach & mentor 
-                    inside the PAPAFAM, here's a little bit about me... I've been coding for over 10 years 
-                    now. As a Full Stack developer I've worked both with startups and large corporations to 
-                    help build & scale their companies. Along the journey I realised my passion existed in 
-                    helping others excel and pursue their dreams as upcoming developers. 🌟 With this 
-                    passion, I have now trained thousand's of developers across the globe. Through live 
-                    coaching sessions on Youtube, I have accumulated several MILLION views 
-                    demonstrating how to apply developer skills in a range of cool builds and challenges. I 
-                    deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world
-                    of web development. You’ll get hands-on experience and learn the skills that are
-                    required to succeed in the real-world in this community. And if that’s not enough I have 
-                    cloned most of the applications you have used in your life!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque illum, earum expedita similique perferendis recusandae mollitia sequi placeat quibusdam corporis quos autem voluptatem, aliquid tempore, obcaecati optio labore magni ab sed tenetur! Aut voluptatem nam voluptate praesentium inventore ad iusto officiis impedit modi nesciunt iste accusamus adipisci, hic unde vero reprehenderit omnis dolor provident dolorem pariatur recusandae eum non error distinctio. In qui iste assumenda, velit voluptate delectus ducimus natus placeat adipisci, vel numquam quas autem fugiat maiores, eum illum quia incidunt totam aliquam aperiam? Officiis repellendus asperiores in a ut sunt at, doloremque itaque reiciendis rem praesentium sint vitae blanditiis earum quasi est, numquam ipsum, architecto optio. Maiores totam ipsa quas repudiandae dolores sit omnis? Nisi, eligendi doloribus cum nam quos labore cumque ducimus soluta suscipit, veritatis, quaerat architecto.
                 </p>
             </div>
         </motion.div>
